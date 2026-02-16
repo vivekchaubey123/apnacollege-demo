@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first Repository
-author- Vivek Chaubey
+<br>
+author - Vivek Chaubey (Motors)
